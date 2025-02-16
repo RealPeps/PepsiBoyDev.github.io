@@ -1,0 +1,19 @@
+{
+  "Files": [
+    {
+      "Path": "Wow.exe",
+      "Version": "cee69c91fd8f30f44d76a364aa69a855",
+      "Url": "http://34.174.96.171/Wow.exe"
+    },
+    {
+      "Path": "Data\\patch-A.MPQ",
+      "Version": "9ac92972af7b36bbac73b3d3af9b17d2",
+      "Url": "http://34.174.96.171/Data/patch-A.MPQ"
+    },
+    {
+      "Path": "Data\\enUS\\realmlist.wtf",
+      "Version": "f910a7996a6c3f1cae0333424a4c5f37",
+      "Url": "http://34.174.96.171/Data/enUS/realmlist.wtf"
+    }
+  ]
+}
