@@ -18,12 +18,12 @@
     {
       "Path": "Data\\patch-B.MPQ",
       "Version": "15c450e9bf80bd8c18c573a2460cafc1",
-      "Url": "http://34.174.96.171/Data/patch-A.MPQ"
+      "Url": "http://34.174.96.171/Data/patch-B.MPQ"
     },
     {
       "Path": "Data\\patch-C.MPQ",
       "Version": "71b88d5ebfc8f3cf05de7a8b1cb473ec",
-      "Url": "http://34.174.96.171/Data/patch-A.MPQ"
+      "Url": "http://34.174.96.171/Data/patch-C.MPQ"
     },
     {
       "Path": "Data\\enUS\\realmlist.wtf",
