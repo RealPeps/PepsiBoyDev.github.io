@@ -12,18 +12,13 @@
     },
     {
       "Path": "Data\\patch-A.MPQ",
-      "Version": "f7bd0169d8d1cf1ba8b77c3540253bf9",
+      "Version": "ebd01d17331a2a024018c9e380c9e99b",
       "Url": "http://34.174.96.171/Data/patch-A.MPQ"
     },
     {
       "Path": "Data\\patch-B.MPQ",
-      "Version": "15c450e9bf80bd8c18c573a2460cafc1",
-      "Url": "http://34.174.96.171/Data/patch-B.MPQ"
-    },
-    {
-      "Path": "Data\\patch-C.MPQ",
-      "Version": "71b88d5ebfc8f3cf05de7a8b1cb473ec",
-      "Url": "http://34.174.96.171/Data/patch-C.MPQ"
+      "Version": "929d7d0b7726c2ae64e5dab1e9db5108 ",
+      "Url": "http://34.174.96.171/Data/patch-A.MPQ"
     },
     {
       "Path": "Data\\enUS\\realmlist.wtf",
