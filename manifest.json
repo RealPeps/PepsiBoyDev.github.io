@@ -3,27 +3,27 @@
     {
       "Path": "Wow.exe",
       "Version": "cee69c91fd8f30f44d76a364aa69a855",
-      "Url": "http://34.174.96.171/Wow.exe"
+      "Url": "http://104.196.252.241/Wow.exe"
     },
     {
       "Path": "ClientExtensions.dll",
       "Version": "7e33c5c0cc1567e03d8792bed5750f9c",
-      "Url": "http://34.174.96.171/ClientExtensions.dll"
+      "Url": "http://104.196.252.241/ClientExtensions.dll"
     },
     {
       "Path": "Data\\patch-A.MPQ",
-      "Version": "b27328251d8dd49e50a75ead3ed3d8cc",
-      "Url": "http://34.174.96.171/Data/patch-A.MPQ"
+      "Version": "67c03b6b367e3cb3799fb866e4bca548",
+      "Url": "http://104.196.252.241/Data/patch-A.MPQ"
     },
     {
       "Path": "Data\\patch-B.MPQ",
-      "Version": "929d7d0b7726c2ae64e5dab1e9db5108",
-      "Url": "http://34.174.96.171/Data/patch-B.MPQ"
+      "Version": "fbe25f5290c04f7e20906d28f76a58fe",
+      "Url": "http://104.196.252.241/Data/patch-B.MPQ"
     },
     {
       "Path": "Data\\enUS\\realmlist.wtf",
-      "Version": "f910a7996a6c3f1cae0333424a4c5f37",
-      "Url": "http://34.174.96.171/Data/enUS/realmlist.wtf"
+      "Version": "ba5f7890f09799d0cbd59892f620f78e",
+      "Url": "http://104.196.252.241/Data/enUS/realmlist.wtf"
     }
   ]
 }
